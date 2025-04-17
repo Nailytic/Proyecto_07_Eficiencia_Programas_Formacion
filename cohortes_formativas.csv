@@ -1,0 +1,21 @@
+ID_Cohorte,Programa,Modalidad,Inicio,Duracion_meses,Inscritos,Retencion_%,Finalizacion_%,Satisfaccion
+1,Data Analytics,Presencial,2021-06,3,78,81.0,66.0,4.18
+2,Desarrollo Web,Híbrido,2022-01,6,77,95.0,83.0,4.15
+3,Desarrollo Web,Presencial,2021-05,3,34,81.0,72.0,4.58
+4,Data Analytics,Híbrido,2023-05,2,42,86.0,78.0,4.48
+5,Ciberseguridad,Híbrido,2022-05,4,59,91.0,77.0,3.92
+6,Data Analytics,Online,2023-04,4,70,73.0,61.0,3.53
+7,Gestión de Proyectos,Híbrido,2023-07,3,32,92.0,80.0,3.58
+8,Marketing Digital,Presencial,2022-05,2,29,97.0,91.0,4.27
+9,Gestión de Proyectos,Presencial,2021-06,5,32,94.0,80.0,4.67
+10,Desarrollo Web,Presencial,2021-05,3,41,94.0,85.0,4.14
+11,Desarrollo Web,Híbrido,2021-01,4,64,88.0,81.0,3.86
+12,Marketing Digital,Presencial,2021-05,5,55,76.0,66.0,3.84
+13,Ciberseguridad,Híbrido,2022-05,6,50,81.0,68.0,4.7
+14,Ciberseguridad,Híbrido,2021-01,3,40,81.0,72.0,5.0
+15,Marketing Digital,Online,2021-02,4,46,78.0,72.0,3.64
+16,Marketing Digital,Online,2022-09,2,55,77.0,63.0,4.84
+17,Marketing Digital,Online,2022-08,6,45,80.0,66.0,3.54
+18,Ciberseguridad,Presencial,2021-02,6,51,91.0,77.0,4.23
+19,Ciberseguridad,Presencial,2023-06,5,22,93.0,81.0,3.24
+20,Marketing Digital,Presencial,2023-05,4,74,81.0,76.0,4.32
